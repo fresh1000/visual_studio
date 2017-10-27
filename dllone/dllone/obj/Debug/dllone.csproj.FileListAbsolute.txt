@@ -1,0 +1,5 @@
+E:\files\dllone\dllone\obj\Debug\dllone.csprojResolveAssemblyReference.cache
+E:\files\dllone\dllone\bin\Debug\dllone.dll
+E:\files\dllone\dllone\bin\Debug\dllone.pdb
+E:\files\dllone\dllone\obj\Debug\dllone.dll
+E:\files\dllone\dllone\obj\Debug\dllone.pdb

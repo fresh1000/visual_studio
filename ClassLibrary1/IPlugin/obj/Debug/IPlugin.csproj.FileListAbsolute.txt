@@ -1,0 +1,4 @@
+c:\users\yura\documents\visual studio 2013\Projects\ClassLibrary1\IPlugin\bin\Debug\IPlugin.dll
+c:\users\yura\documents\visual studio 2013\Projects\ClassLibrary1\IPlugin\bin\Debug\IPlugin.pdb
+c:\users\yura\documents\visual studio 2013\Projects\ClassLibrary1\IPlugin\obj\Debug\IPlugin.dll
+c:\users\yura\documents\visual studio 2013\Projects\ClassLibrary1\IPlugin\obj\Debug\IPlugin.pdb

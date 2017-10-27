@@ -1,0 +1,9 @@
+E:\files\dllone\dllone\bin\Release\dllone.dll
+E:\files\dllone\dllone\bin\Release\dllone.pdb
+E:\files\dllone\dllone\obj\Release\dllone.dll
+E:\files\dllone\dllone\obj\Release\dllone.pdb
+C:\Users\Yura\Documents\Visual Studio 2013\Projects\dllone\dllone\bin\Release\dllone.dll
+C:\Users\Yura\Documents\Visual Studio 2013\Projects\dllone\dllone\bin\Release\dllone.pdb
+C:\Users\Yura\Documents\Visual Studio 2013\Projects\dllone\dllone\obj\Release\dllone.csprojResolveAssemblyReference.cache
+C:\Users\Yura\Documents\Visual Studio 2013\Projects\dllone\dllone\obj\Release\dllone.dll
+C:\Users\Yura\Documents\Visual Studio 2013\Projects\dllone\dllone\obj\Release\dllone.pdb

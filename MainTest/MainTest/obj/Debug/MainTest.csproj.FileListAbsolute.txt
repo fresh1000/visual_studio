@@ -1,0 +1,11 @@
+c:\users\yura\documents\visual studio 2013\Projects\MainTest\MainTest\bin\Debug\MainTest.exe.config
+c:\users\yura\documents\visual studio 2013\Projects\MainTest\MainTest\bin\Debug\MainTest.exe
+c:\users\yura\documents\visual studio 2013\Projects\MainTest\MainTest\bin\Debug\MainTest.pdb
+c:\users\yura\documents\visual studio 2013\Projects\MainTest\MainTest\bin\Debug\Class11.dll
+c:\users\yura\documents\visual studio 2013\Projects\MainTest\MainTest\bin\Debug\Class22.dll
+c:\users\yura\documents\visual studio 2013\Projects\MainTest\MainTest\bin\Debug\Class3.dll
+c:\users\yura\documents\visual studio 2013\Projects\MainTest\MainTest\bin\Debug\ClassLibrary1.dll
+c:\users\yura\documents\visual studio 2013\Projects\MainTest\MainTest\bin\Debug\IPlugin.dll
+c:\users\yura\documents\visual studio 2013\Projects\MainTest\MainTest\obj\Debug\MainTest.exe
+c:\users\yura\documents\visual studio 2013\Projects\MainTest\MainTest\obj\Debug\MainTest.pdb
+c:\users\yura\documents\visual studio 2013\Projects\MainTest\MainTest\obj\Debug\MainTest.csprojResolveAssemblyReference.cache

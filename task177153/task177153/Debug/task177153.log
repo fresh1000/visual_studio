@@ -1,0 +1,19 @@
+﻿Build started 19.07.2017 1:36:51.
+     1>Project "c:\Users\Yura\documents\visual studio 2013\Projects\task177153\task177153\task177153.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\Downloads\task177153programmingcomputersciencecforeval\lec30ma.cpp
+         lec30ma.cpp
+     1>c:\users\yura\downloads\task177153programmingcomputersciencecforeval\phoneplanwithdata.h(22): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         F:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\yura\documents\visual studio 2013\Projects\task177153\Debug\task177153.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\yura\documents\visual studio 2013\Projects\task177153\Debug\task177153.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\yura\documents\visual studio 2013\Projects\task177153\Debug\task177153.lib" /MACHINE:X86 Debug\BasePlusCommissionEmployee.obj
+         Debug\CommissionEmployee.obj
+         Debug\InheritanceExamples.obj
+         Debug\lec30ma.obj
+         Debug\PhonePlan.obj
+         Debug\PhonePlanWithData.obj
+         task177153.vcxproj -> c:\users\yura\documents\visual studio 2013\Projects\task177153\Debug\task177153.exe
+     1>Done Building Project "c:\Users\Yura\documents\visual studio 2013\Projects\task177153\task177153\task177153.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.81

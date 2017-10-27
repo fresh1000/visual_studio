@@ -1,0 +1,6 @@
+c:\users\yura\documents\visual studio 2013\Projects\ClassLibrary1\Class3\obj\Debug\Class33.csprojResolveAssemblyReference.cache
+c:\users\yura\documents\visual studio 2013\Projects\ClassLibrary1\Class3\obj\Debug\Class3.dll
+c:\users\yura\documents\visual studio 2013\Projects\ClassLibrary1\Class3\obj\Debug\Class3.pdb
+c:\users\yura\documents\visual studio 2013\Projects\ClassLibrary1\Class3\bin\Debug\Class3.dll
+c:\users\yura\documents\visual studio 2013\Projects\ClassLibrary1\Class3\bin\Debug\Class3.pdb
+c:\users\yura\documents\visual studio 2013\Projects\ClassLibrary1\Class3\bin\Debug\IPlugin.dll
